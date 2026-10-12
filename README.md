@@ -1,0 +1,1 @@
+Designed and implemented RavenClaw, a hexacopter drone integrated with a robotic arm for aerial manipulation. Developed a customizable gripper and Arduino–Bluetooth-based arm control system, integrated Pixhawk flight control, and tested stable flight during object manipulation
